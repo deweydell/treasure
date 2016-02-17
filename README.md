@@ -2,10 +2,14 @@
 
 Ruby on Rails web application that allows you to list an item and swipe against others based on whether or not you'd be willing to trade it.
 
-Created by [Carolina Medellin](http://github.com/caromedellin), [Darius Atmar](http://github.com/datmar), [Natalie Polen](http://github.com/nataliecodes), & [Nicola Beuscher](http://github.com/deweydell)
+Created by [Carolina Medellin](http://github.com/caromedellin), [Darius Atmar](http://github.com/datmar), [Natalie Polen](http://github.com/nataliecodes) & [Nicola Beuscher](http://github.com/deweydell)
 
-## Features
-* Register/Login with email or Facebook
+## Built With
+Treasure is built with the following open source components:
+- [Ruby on Rails](https://github.com/rails/rails)
+- [PostgreSQL](http://www.postgresql.org/)
+- [jQuery](http://jquery.com/)
+- [OmniAuth](https://github.com/intridea/omniauth)
 
 ##Screenshots
 ###Login with email or Facebook
