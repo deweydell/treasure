@@ -10,6 +10,7 @@ Treasure is built with the following open source components:
 - [PostgreSQL](http://www.postgresql.org/)
 - [jQuery](http://jquery.com/)
 - [OmniAuth](https://github.com/intridea/omniauth)
+- [Paperclip](https://github.com/thoughtbot/paperclip)
 
 ##Screenshots
 ###Login with email or Facebook
