@@ -1,6 +1,8 @@
 # Treasure
 
-Ruby on Rails web application that allows you to list an item and swipe against others based on whether or not you'd be willing to trade it.
+# About
+
+Treasure is a Ruby on Rails web application that allows users to list an item and swipe against others' items based on whether or not users would be willing to trade it. The app was created as a final project at the end of [Dev Bootcamp](http://devbootcamp.com/).
 
 Created by [Carolina Medellin](http://github.com/caromedellin), [Darius Atmar](http://github.com/datmar), [Natalie Polen](http://github.com/nataliecodes) & [Nicola Beuscher](http://github.com/deweydell)
 
@@ -14,7 +16,7 @@ Treasure is built with the following open source components:
 
 ###Dependencies
 - [PostgreSQL](http://www.postgresql.org/)
-- Bundler Gem ('gem install bundler')
+- Bundler gem ('gem install bundler')
 
 ##How to Run Our App Locally (OS X 10.8 or later)
 1. In the terminal:
@@ -37,15 +39,19 @@ bundle exec rails s
 
 ##Screenshots
 ###List an item to trade
+Below is a shot of Steven's bicycle's profile. He can see his item and the other items his bike has matched with.
 ![My Treasure](screenshots/my-treasure.png)
 ###Swipe right or left on other users' items
+Below is a shot of our 'main page' where users can swipe right or left on other items.
 ![Swipe Item](screenshots/swipe-page2.png)
 ###A match is made when two users like each other's items
+There is a pop-up message when a match is made.
 ![Match Modal](screenshots/match-modal.png)
 ###In-app messaging for matched items
+The below page is an item's match page. Steven can message with the owner of the jeans and coordinate exchanging their items.
 ![Match Messages](screenshots/message-page.png)
 
 ##Future Features
 - Location-based filtering
 - User ratings and reviews
-- Multiple items for highly rated users
+- Multiple item listings for highly-rated users
