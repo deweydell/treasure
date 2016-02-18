@@ -12,3 +12,6 @@
 !/log/.keep
 /tmp
 public/system
+
+#Ignore OSX generated trash file
+.DS_Store
