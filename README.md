@@ -4,7 +4,7 @@
 
 Treasure is a Ruby on Rails web application that allows users to list an item and swipe against others' items based on whether or not users would be willing to trade it. The app was created as a final project at the end of [Dev Bootcamp](http://devbootcamp.com/).
 
-Created by [Carolina Medellin](http://github.com/caromedellin), [Darius Atmar](http://github.com/datmar), [Natalie Polen](http://github.com/nataliecodes) & [Nicola Beuscher](http://github.com/deweydell)
+Created by [Carolina Medellin](http://github.com/caromedellin), [Darius Atmar](http://github.com/datmar), [Natalie Polen](http://github.com/nataliecodes) & [Nicola B](http://github.com/deweydell)
 
 ## Built With
 Treasure is built with the following open source components:
